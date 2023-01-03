@@ -2,15 +2,21 @@
 main:
   #- title: "Quick-Start Guide"
   #  url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
-   - title: "About"
+   - title: "About Me?"
      url: /about/
-   - title: "JAVA"
-     url: /year-archive/
-   - title: "Spring"
-     url: /collection-archive/
-   - title: "JavaScript"
-     url: /sitemap/
-   - title: "Vue.js"
-     url: /sitemap/
+   - title: "Study Notes"
+     sublinks:     
+      - title: "JAVA"
+        url: /year-archive/
+      - title: "Spring"
+        url: /collection-archive/
+      - title: "JavaScript"
+        url: /sitemap/
+      - title: "Vue.js"
+        url: /sitemap/
+      - title: "DB"
+        url: /sitemap/
+      - title: "Git"
+        url: /sitemap/                
    - title: "Interview"
      url: /sitemap/          
